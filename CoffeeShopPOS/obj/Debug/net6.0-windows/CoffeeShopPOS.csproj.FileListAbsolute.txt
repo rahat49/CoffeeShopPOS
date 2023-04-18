@@ -1,0 +1,17 @@
+F:\Project\CoffeeShopPOS\bin\Debug\net6.0-windows\CoffeeShopPOS.exe
+F:\Project\CoffeeShopPOS\bin\Debug\net6.0-windows\CoffeeShopPOS.deps.json
+F:\Project\CoffeeShopPOS\bin\Debug\net6.0-windows\CoffeeShopPOS.runtimeconfig.json
+F:\Project\CoffeeShopPOS\bin\Debug\net6.0-windows\CoffeeShopPOS.dll
+F:\Project\CoffeeShopPOS\bin\Debug\net6.0-windows\CoffeeShopPOS.pdb
+F:\Project\CoffeeShopPOS\obj\Debug\net6.0-windows\CoffeeShopPOS.csproj.AssemblyReference.cache
+F:\Project\CoffeeShopPOS\obj\Debug\net6.0-windows\CoffeeShopPOS.Form1.resources
+F:\Project\CoffeeShopPOS\obj\Debug\net6.0-windows\CoffeeShopPOS.csproj.GenerateResource.cache
+F:\Project\CoffeeShopPOS\obj\Debug\net6.0-windows\CoffeeShopPOS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\CoffeeShopPOS\obj\Debug\net6.0-windows\CoffeeShopPOS.AssemblyInfoInputs.cache
+F:\Project\CoffeeShopPOS\obj\Debug\net6.0-windows\CoffeeShopPOS.AssemblyInfo.cs
+F:\Project\CoffeeShopPOS\obj\Debug\net6.0-windows\CoffeeShopPOS.csproj.CoreCompileInputs.cache
+F:\Project\CoffeeShopPOS\obj\Debug\net6.0-windows\CoffeeShopPOS.dll
+F:\Project\CoffeeShopPOS\obj\Debug\net6.0-windows\refint\CoffeeShopPOS.dll
+F:\Project\CoffeeShopPOS\obj\Debug\net6.0-windows\CoffeeShopPOS.pdb
+F:\Project\CoffeeShopPOS\obj\Debug\net6.0-windows\CoffeeShopPOS.genruntimeconfig.cache
+F:\Project\CoffeeShopPOS\obj\Debug\net6.0-windows\ref\CoffeeShopPOS.dll
