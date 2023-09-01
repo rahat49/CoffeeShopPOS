@@ -1,3 +1,3 @@
 # CoffeeShopPOS
-Coffee Shop POS using .Net 6 Web Form App
+Coffee Shop POS using .Net Web Form App
 ![](CoffeeshopPOS.png)
